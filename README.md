@@ -10,15 +10,15 @@
 
 ## 1. TNotes.github
 
-- [ ] [0001. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20new/README.md)
+- [ ] [0001. TNotes.github](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20TNotes.github/README.md)
 
 ## 2. github 基本使用
 
-- [ ] [0002. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20new/README.md)
+- [ ] [0002. github 基本使用](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20github%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md)
 
 ## 3. github 开源项目
 
-- [ ] [0003. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20new/README.md)
+- [ ] [0003. github 开源项目](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20github%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/README.md)
 - [ ] [0004. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0004.%20new/README.md)
 - [ ] [0005. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0005.%20new/README.md)
 - [ ] [0006. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0006.%20new/README.md)

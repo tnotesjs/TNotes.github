@@ -1,4 +1,4 @@
-# [0001. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20new)
+# [0001. TNotes.github](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20TNotes.github)
 
 <!-- region:toc -->
 

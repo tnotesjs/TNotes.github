@@ -1,4 +1,4 @@
-# [0003. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20new)
+# [0002. github 基本使用](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20github%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
 
