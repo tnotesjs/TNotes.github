@@ -4,7 +4,7 @@
   "yuque": [],
   "done": false,
   "enableDiscussions": false,
-  "description": "",
+  "description": "everyone-can-use-english 是一款用于学习英语的开源项目，技术栈大多也都是目前前端领域主流的，有空可以瞅瞅项目源码，基于 vitepress 搭建的 docs 写得很 nice，在整理 en-notes 知识库的时候可以学习学习。",
   "id": "28cd6f92-57b0-41e2-b8da-326aa9300932",
   "created_at": 1772278148154,
   "updated_at": 1772278948854

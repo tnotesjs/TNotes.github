@@ -4,27 +4,13 @@
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ 0001. TNotes.github",
+        "text": "✅ 0001. TNotes.github",
         "link": "/notes/0001. TNotes.github/README"
       }
     ]
   },
   {
-    "text": "2. github 基本使用",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "⏰ 0002. github 基本使用",
-        "link": "/notes/0002. github 基本使用/README"
-      },
-      {
-        "text": "⏰ 0004. OAuth",
-        "link": "/notes/0004. OAuth/README"
-      }
-    ]
-  },
-  {
-    "text": "3. github 开源项目",
+    "text": "2. github 开源项目",
     "collapsed": true,
     "items": [
       {
@@ -86,6 +72,20 @@
       {
         "text": "⏰ 0018. musicxx",
         "link": "/notes/0018. musicxx/README"
+      }
+    ]
+  },
+  {
+    "text": "3. TODO",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 0002. github 基本使用",
+        "link": "/notes/0002. github 基本使用/README"
+      },
+      {
+        "text": "⏰ 0004. OAuth",
+        "link": "/notes/0004. OAuth/README"
       },
       {
         "text": "⏰ 0019. new",

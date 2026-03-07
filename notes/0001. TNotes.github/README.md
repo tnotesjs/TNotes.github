@@ -9,8 +9,12 @@
 
 ## 1. 🎯 本节内容
 
-- todo
+- TNotes.github 知识库简介
 
 ## 2. 🫧 评价
 
-- todo
+在 TNotes.github 知识库中，记录一些和 github 相关的内容，比如：
+
+- github 的基本使用
+- github 上的一些开源项目简介
+- ……

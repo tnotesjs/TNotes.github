@@ -3,21 +3,16 @@
 <!-- region:toc -->
 
 - [1. TNotes.github](#1-tnotesgithub)
-- [2. github 基本使用](#2-github-基本使用)
-- [3. github 开源项目](#3-github-开源项目)
+- [2. github 开源项目](#2-github-开源项目)
+- [3. TODO](#3-todo)
 
 <!-- endregion:toc -->
 
 ## 1. TNotes.github
 
-- [ ] [0001. TNotes.github](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20TNotes.github/README.md)
+- [x] [0001. TNotes.github](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20TNotes.github/README.md)
 
-## 2. github 基本使用
-
-- [ ] [0002. github 基本使用](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20github%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md)
-- [ ] [0004. OAuth](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0004.%20OAuth/README.md)
-
-## 3. github 开源项目
+## 2. github 开源项目
 
 - [ ] [0003. github 开源项目](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20github%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/README.md)
 - [ ] [0005. github-rank](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0005.%20github-rank/README.md)
@@ -34,6 +29,11 @@
 - [ ] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
 - [ ] [0017. PakePlus](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0017.%20PakePlus/README.md)
 - [ ] [0018. musicxx](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0018.%20musicxx/README.md)
+
+## 3. TODO
+
+- [ ] [0002. github 基本使用](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20github%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md)
+- [ ] [0004. OAuth](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0004.%20OAuth/README.md)
 - [ ] [0019. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20new/README.md)
 - [ ] [0020. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0020.%20new/README.md)
 - [ ] [0021. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0021.%20new/README.md)
