@@ -15,20 +15,20 @@
 ## 2. github 开源项目
 
 - [ ] [0003. github 开源项目](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20github%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/README.md)
-- [ ] [0005. github-rank](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0005.%20github-rank/README.md)
 - [ ] [0006. china-ranking](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0006.%20china-ranking/README.md)
 - [ ] [0007. deepwiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20deepwiki/README.md)
 - [ ] [0008. everyone-can-use-english](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0008.%20everyone-can-use-english/README.md)
-- [ ] [0009. gitdiagram](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0009.%20gitdiagram/README.md)
-- [ ] [0010. zreadai](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20zreadai/README.md)
 - [ ] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
+- [ ] [0009. gitdiagram](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0009.%20gitdiagram/README.md)
+- [x] [0005. github-rank](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0005.%20github-rank/README.md)
+- [ ] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
+- [ ] [0018. musicxx](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0018.%20musicxx/README.md)
+- [ ] [0017. PakePlus](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0017.%20PakePlus/README.md)
 - [ ] [0012. quill](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0012.%20quill/README.md)
+- [ ] [0015. REKCARC-TSC-UHT](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0015.%20REKCARC-TSC-UHT/README.md)
 - [ ] [0013. yjs](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0013.%20yjs/README.md)
 - [ ] [0014. zju-icicles](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0014.%20zju-icicles/README.md)
-- [ ] [0015. REKCARC-TSC-UHT](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0015.%20REKCARC-TSC-UHT/README.md)
-- [ ] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
-- [ ] [0017. PakePlus](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0017.%20PakePlus/README.md)
-- [ ] [0018. musicxx](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0018.%20musicxx/README.md)
+- [ ] [0010. zreadai](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20zreadai/README.md)
 
 ## 3. TODO
 

@@ -18,10 +18,6 @@
         "link": "/notes/0003. github 开源项目/README"
       },
       {
-        "text": "⏰ 0005. github-rank",
-        "link": "/notes/0005. github-rank/README"
-      },
-      {
         "text": "⏰ 0006. china-ranking",
         "link": "/notes/0006. china-ranking/README"
       },
@@ -34,20 +30,36 @@
         "link": "/notes/0008. everyone-can-use-english/README"
       },
       {
-        "text": "⏰ 0009. gitdiagram",
-        "link": "/notes/0009. gitdiagram/README"
-      },
-      {
-        "text": "⏰ 0010. zreadai",
-        "link": "/notes/0010. zreadai/README"
-      },
-      {
         "text": "⏰ 0011. excalidraw",
         "link": "/notes/0011. excalidraw/README"
       },
       {
+        "text": "⏰ 0009. gitdiagram",
+        "link": "/notes/0009. gitdiagram/README"
+      },
+      {
+        "text": "✅ 0005. github-rank",
+        "link": "/notes/0005. github-rank/README"
+      },
+      {
+        "text": "⏰ 0016. memorains",
+        "link": "/notes/0016. memorains/README"
+      },
+      {
+        "text": "⏰ 0018. musicxx",
+        "link": "/notes/0018. musicxx/README"
+      },
+      {
+        "text": "⏰ 0017. PakePlus",
+        "link": "/notes/0017. PakePlus/README"
+      },
+      {
         "text": "⏰ 0012. quill",
         "link": "/notes/0012. quill/README"
+      },
+      {
+        "text": "⏰ 0015. REKCARC-TSC-UHT",
+        "link": "/notes/0015. REKCARC-TSC-UHT/README"
       },
       {
         "text": "⏰ 0013. yjs",
@@ -58,20 +70,8 @@
         "link": "/notes/0014. zju-icicles/README"
       },
       {
-        "text": "⏰ 0015. REKCARC-TSC-UHT",
-        "link": "/notes/0015. REKCARC-TSC-UHT/README"
-      },
-      {
-        "text": "⏰ 0016. memorains",
-        "link": "/notes/0016. memorains/README"
-      },
-      {
-        "text": "⏰ 0017. PakePlus",
-        "link": "/notes/0017. PakePlus/README"
-      },
-      {
-        "text": "⏰ 0018. musicxx",
-        "link": "/notes/0018. musicxx/README"
+        "text": "⏰ 0010. zreadai",
+        "link": "/notes/0010. zreadai/README"
       }
     ]
   },
