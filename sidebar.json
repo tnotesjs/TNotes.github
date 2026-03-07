@@ -10,7 +10,25 @@
     ]
   },
   {
-    "text": "2. github 开源项目",
+    "text": "2. github 工具",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ 0019. github 工具",
+        "link": "/notes/0019. github 工具/README"
+      },
+      {
+        "text": "✅ 0007. DeepWiki",
+        "link": "/notes/0007. DeepWiki/README"
+      },
+      {
+        "text": "⏰ 0010. Zread.AI",
+        "link": "/notes/0010. Zread.AI/README"
+      }
+    ]
+  },
+  {
+    "text": "3. github 开源项目",
     "collapsed": true,
     "items": [
       {
@@ -20,10 +38,6 @@
       {
         "text": "⏰ 0006. china-ranking",
         "link": "/notes/0006. china-ranking/README"
-      },
-      {
-        "text": "⏰ 0007. deepwiki",
-        "link": "/notes/0007. deepwiki/README"
       },
       {
         "text": "⏰ 0008. everyone-can-use-english",
@@ -68,15 +82,11 @@
       {
         "text": "⏰ 0014. zju-icicles",
         "link": "/notes/0014. zju-icicles/README"
-      },
-      {
-        "text": "⏰ 0010. zreadai",
-        "link": "/notes/0010. zreadai/README"
       }
     ]
   },
   {
-    "text": "3. TODO",
+    "text": "4. TODO",
     "collapsed": true,
     "items": [
       {
@@ -86,10 +96,6 @@
       {
         "text": "⏰ 0004. OAuth",
         "link": "/notes/0004. OAuth/README"
-      },
-      {
-        "text": "⏰ 0019. new",
-        "link": "/notes/0019. new/README"
       },
       {
         "text": "⏰ 0020. new",

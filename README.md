@@ -3,8 +3,9 @@
 <!-- region:toc -->
 
 - [1. TNotes.github](#1-tnotesgithub)
-- [2. github 开源项目](#2-github-开源项目)
-- [3. TODO](#3-todo)
+- [2. github 工具](#2-github-工具)
+- [3. github 开源项目](#3-github-开源项目)
+- [4. TODO](#4-todo)
 
 <!-- endregion:toc -->
 
@@ -12,11 +13,16 @@
 
 - [x] [0001. TNotes.github](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0001.%20TNotes.github/README.md)
 
-## 2. github 开源项目
+## 2. github 工具
+
+- [x] [0019. github 工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20github%20%E5%B7%A5%E5%85%B7/README.md)
+- [x] [0007. DeepWiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20DeepWiki/README.md)
+- [ ] [0010. Zread.AI](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20Zread.AI/README.md)
+
+## 3. github 开源项目
 
 - [ ] [0003. github 开源项目](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20github%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/README.md)
 - [ ] [0006. china-ranking](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0006.%20china-ranking/README.md)
-- [ ] [0007. deepwiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20deepwiki/README.md)
 - [ ] [0008. everyone-can-use-english](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0008.%20everyone-can-use-english/README.md)
 - [ ] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
 - [ ] [0009. gitdiagram](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0009.%20gitdiagram/README.md)
@@ -28,13 +34,11 @@
 - [ ] [0015. REKCARC-TSC-UHT](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0015.%20REKCARC-TSC-UHT/README.md)
 - [ ] [0013. yjs](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0013.%20yjs/README.md)
 - [ ] [0014. zju-icicles](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0014.%20zju-icicles/README.md)
-- [ ] [0010. zreadai](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20zreadai/README.md)
 
-## 3. TODO
+## 4. TODO
 
 - [ ] [0002. github 基本使用](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20github%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md)
 - [ ] [0004. OAuth](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0004.%20OAuth/README.md)
-- [ ] [0019. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20new/README.md)
 - [ ] [0020. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0020.%20new/README.md)
 - [ ] [0021. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0021.%20new/README.md)
 - [ ] [0022. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20new/README.md)

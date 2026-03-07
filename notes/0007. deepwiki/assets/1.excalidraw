@@ -1,0 +1,350 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Ws8OEHbZcDZett_18dnj6",
+      "type": "text",
+      "x": 415,
+      "y": 265,
+      "width": 552.3596801757812,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "6kT32-_9ik9bFlQP6UTX5"
+      ],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1860873658,
+      "version": 43,
+      "versionNonce": 1480073210,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "J1z8HiTHGaJiimZ2ko2OA",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1772885819912,
+      "link": null,
+      "locked": false,
+      "text": "vscode 仓库地址 👉 https://github.com/microsoft/vscode",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "vscode 仓库地址 👉 https://github.com/microsoft/vscode",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "BXbWnMa1t6Xv72G0DLecf",
+      "type": "line",
+      "x": 687.2395629882812,
+      "y": 298.0197448730469,
+      "width": 62.51898193359375,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "6kT32-_9ik9bFlQP6UTX5"
+      ],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1205862566,
+      "version": 77,
+      "versionNonce": 578039226,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1772885800758,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          62.51898193359375,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "jyAiNG-2x3hNKi8YKHffj",
+      "type": "text",
+      "x": 415,
+      "y": 484.464417,
+      "width": 622.4795532226562,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "_GCDG_8TYgLtrOCJVj_Zv"
+      ],
+      "frameId": null,
+      "index": "a2V",
+      "roundness": null,
+      "seed": 1855486886,
+      "version": 115,
+      "versionNonce": 1134688378,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "0Nj28PHQvpoAIHUOZl_ZC",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1772885816812,
+      "link": null,
+      "locked": false,
+      "text": "vscode DeepWiki 地址 👉 https://deepwiki.com/microsoft/vscode",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "vscode DeepWiki 地址 👉 https://deepwiki.com/microsoft/vscode",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "xtCIhr891qtPDI1KykCVI",
+      "type": "line",
+      "x": 741.3275756835938,
+      "y": 514.2116701757813,
+      "width": 78.8736572265625,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "_GCDG_8TYgLtrOCJVj_Zv"
+      ],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 595769638,
+      "version": 250,
+      "versionNonce": 1650142842,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1772885802686,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          78.8736572265625,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "xLEd4W_w-nW9pQASGZfhK",
+      "type": "text",
+      "x": 414.9999995078125,
+      "y": 379.5011764584505,
+      "width": 629.1197509765625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 1721908794,
+      "version": 112,
+      "versionNonce": 1688858362,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "J1z8HiTHGaJiimZ2ko2OA",
+          "type": "arrow"
+        },
+        {
+          "id": "0Nj28PHQvpoAIHUOZl_ZC",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1772885816812,
+      "link": null,
+      "locked": false,
+      "text": "只需要将 github 仓库地址中的 github.com 替换为 deepwiki.com 即可",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "只需要将 github 仓库地址中的 github.com 替换为 deepwiki.com 即可",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "J1z8HiTHGaJiimZ2ko2OA",
+      "type": "arrow",
+      "x": 715.3918891655002,
+      "y": 305.040586982642,
+      "width": 17.859760268858167,
+      "height": 66.65353273437847,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1873965306,
+      "version": 77,
+      "versionNonce": 696443834,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1772885820164,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          17.859760268858167,
+          66.65353273437847
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Ws8OEHbZcDZett_18dnj6",
+        "focus": -0.060217575608731096,
+        "gap": 15.040586982642026
+      },
+      "endBinding": {
+        "elementId": "xLEd4W_w-nW9pQASGZfhK",
+        "focus": 0.028728431679035663,
+        "gap": 7.807056741430017
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "0Nj28PHQvpoAIHUOZl_ZC",
+      "type": "arrow",
+      "x": 740.6683959960938,
+      "y": 415.8854064941406,
+      "width": 16.441173191284747,
+      "height": 61.359293685913826,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 709224250,
+      "version": 41,
+      "versionNonce": 1984298938,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1772885816812,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          16.441173191284747,
+          61.359293685913826
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "xLEd4W_w-nW9pQASGZfhK",
+        "focus": -0.014811651414305294,
+        "gap": 11.38423003569011
+      },
+      "endBinding": {
+        "elementId": "jyAiNG-2x3hNKi8YKHffj",
+        "focus": 0.11492346683874348,
+        "gap": 7.219716819945575
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
