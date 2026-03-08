@@ -18,8 +18,8 @@
         "link": "/notes/0019. github 工具/README"
       },
       {
-        "text": "✅ 0007. DeepWiki",
-        "link": "/notes/0007. DeepWiki/README"
+        "text": "✅ 0007. deepwiki",
+        "link": "/notes/0007. deepwiki/README"
       },
       {
         "text": "✅ 0010. Zread.AI",
@@ -28,16 +28,30 @@
     ]
   },
   {
-    "text": "3. github 开源项目",
+    "text": "3. github 用户排名",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ 0020. github 用户排名",
+        "link": "/notes/0020. github 用户排名/README"
+      },
+      {
+        "text": "✅ 0006. china-ranking",
+        "link": "/notes/0006. china-ranking/README"
+      },
+      {
+        "text": "✅ 0005. github-rank",
+        "link": "/notes/0005. github-rank/README"
+      }
+    ]
+  },
+  {
+    "text": "4. github 开源项目",
     "collapsed": true,
     "items": [
       {
         "text": "⏰ 0003. github 开源项目",
         "link": "/notes/0003. github 开源项目/README"
-      },
-      {
-        "text": "⏰ 0006. china-ranking",
-        "link": "/notes/0006. china-ranking/README"
       },
       {
         "text": "⏰ 0008. everyone-can-use-english",
@@ -50,10 +64,6 @@
       {
         "text": "⏰ 0009. gitdiagram",
         "link": "/notes/0009. gitdiagram/README"
-      },
-      {
-        "text": "✅ 0005. github-rank",
-        "link": "/notes/0005. github-rank/README"
       },
       {
         "text": "⏰ 0016. memorains",
@@ -86,7 +96,7 @@
     ]
   },
   {
-    "text": "4. TODO",
+    "text": "5. TODO",
     "collapsed": true,
     "items": [
       {
@@ -96,10 +106,6 @@
       {
         "text": "⏰ 0004. OAuth",
         "link": "/notes/0004. OAuth/README"
-      },
-      {
-        "text": "⏰ 0020. new",
-        "link": "/notes/0020. new/README"
       },
       {
         "text": "⏰ 0021. new",

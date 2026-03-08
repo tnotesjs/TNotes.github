@@ -63,7 +63,7 @@ Zread.AI 的功能类似于 Cognition 推出的 DeepWiki，用法也非常类似
 - 点击链接之后，跳转到的 Zread.AI 生成的文档地址：https://zread.ai/excalidraw/excalidraw
   - ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-07-25-23-13-29.png)
 
-你会发现上面介绍到的这个功能其实作用并不大，直接通过地址栏将 github 改为 zread.ai 就完事儿了。如果比较介意这个插件在头部给你加了一个按钮，影响到你的视觉体验，那其实没必要装它，优先考虑通过手动修改地址栏参数的形式来跳转到 zread.ai 站点。
+你会发现上面介绍到的这个功能其实作用并不大，直接通过地址栏将 `github.com` 改为 `zread.ai` 就完事儿了。如果比较介意这个插件在头部给你加了一个按钮，影响到你的视觉体验，那其实没必要装它，优先考虑通过手动修改地址栏参数的形式来跳转到 zread.ai 站点。
 
 ## 4. 🔗 引用
 
