@@ -1,4 +1,4 @@
-# [0024. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0024.%20new)
+# [0024. 开源音乐软件](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0024.%20%E5%BC%80%E6%BA%90%E9%9F%B3%E4%B9%90%E8%BD%AF%E4%BB%B6)
 
 <!-- region:toc -->
 

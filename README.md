@@ -24,7 +24,7 @@
 
 ## 3. github 上的学习资源
 
-- [ ] [0021. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0021.%20new/README.md)
+- [ ] [0021. github 上的学习资源](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0021.%20github%20%E4%B8%8A%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README.md)
 - [ ] [0015. REKCARC-TSC-UHT](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0015.%20REKCARC-TSC-UHT/README.md)
 - [ ] [0014. zju-icicles](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0014.%20zju-icicles/README.md)
 - [ ] [0008. everyone-can-use-english](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0008.%20everyone-can-use-english/README.md)
@@ -38,7 +38,7 @@
 
 ## 5. 开源笔记工具
 
-- [ ] [0022. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20new/README.md)
+- [ ] [0022. 开源笔记工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7/README.md)
 - [ ] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
 - [ ] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
 - [ ] [0012. quill](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0012.%20quill/README.md)
@@ -46,7 +46,7 @@
 
 ## 6. 开源音乐软件
 
-- [ ] [0024. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0024.%20new/README.md)
+- [ ] [0024. 开源音乐软件](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0024.%20%E5%BC%80%E6%BA%90%E9%9F%B3%E4%B9%90%E8%BD%AF%E4%BB%B6/README.md)
 - [ ] [0018. musicxx](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0018.%20musicxx/README.md)
 
 ## 7. TODO
