@@ -10,12 +10,52 @@
     ]
   },
   {
-    "text": "2. github 工具",
+    "text": "2. github 排行榜",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 0019. github 工具",
-        "link": "/notes/0019. github 工具/README"
+        "text": "✅ 0020. github 用户排名",
+        "link": "/notes/0020. github 用户排名/README"
+      },
+      {
+        "text": "✅ 0005. github-rank",
+        "link": "/notes/0005. github-rank/README"
+      },
+      {
+        "text": "✅ 0006. china-ranking",
+        "link": "/notes/0006. china-ranking/README"
+      }
+    ]
+  },
+  {
+    "text": "3. github 上的学习资源",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 0021. new",
+        "link": "/notes/0021. new/README"
+      },
+      {
+        "text": "⏰ 0015. REKCARC-TSC-UHT",
+        "link": "/notes/0015. REKCARC-TSC-UHT/README"
+      },
+      {
+        "text": "⏰ 0014. zju-icicles",
+        "link": "/notes/0014. zju-icicles/README"
+      },
+      {
+        "text": "⏰ 0008. everyone-can-use-english",
+        "link": "/notes/0008. everyone-can-use-english/README"
+      }
+    ]
+  },
+  {
+    "text": "4. github 项目源码学习工具",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ 0019. github 项目源码学习工具",
+        "link": "/notes/0019. github 项目源码学习工具/README"
       },
       {
         "text": "✅ 0007. deepwiki",
@@ -24,79 +64,55 @@
       {
         "text": "✅ 0010. Zread.AI",
         "link": "/notes/0010. Zread.AI/README"
+      },
+      {
+        "text": "⏰ 0009. gitdiagram",
+        "link": "/notes/0009. gitdiagram/README"
       }
     ]
   },
   {
-    "text": "3. github 用户排名",
+    "text": "5. 开源笔记工具",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 0020. github 用户排名",
-        "link": "/notes/0020. github 用户排名/README"
-      },
-      {
-        "text": "✅ 0006. china-ranking",
-        "link": "/notes/0006. china-ranking/README"
-      },
-      {
-        "text": "✅ 0005. github-rank",
-        "link": "/notes/0005. github-rank/README"
-      }
-    ]
-  },
-  {
-    "text": "4. github 开源项目",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "⏰ 0003. github 开源项目",
-        "link": "/notes/0003. github 开源项目/README"
-      },
-      {
-        "text": "⏰ 0008. everyone-can-use-english",
-        "link": "/notes/0008. everyone-can-use-english/README"
+        "text": "⏰ 0022. new",
+        "link": "/notes/0022. new/README"
       },
       {
         "text": "⏰ 0011. excalidraw",
         "link": "/notes/0011. excalidraw/README"
       },
       {
-        "text": "⏰ 0009. gitdiagram",
-        "link": "/notes/0009. gitdiagram/README"
-      },
-      {
         "text": "⏰ 0016. memorains",
         "link": "/notes/0016. memorains/README"
-      },
-      {
-        "text": "⏰ 0018. musicxx",
-        "link": "/notes/0018. musicxx/README"
-      },
-      {
-        "text": "⏰ 0017. PakePlus",
-        "link": "/notes/0017. PakePlus/README"
       },
       {
         "text": "⏰ 0012. quill",
         "link": "/notes/0012. quill/README"
       },
       {
-        "text": "⏰ 0015. REKCARC-TSC-UHT",
-        "link": "/notes/0015. REKCARC-TSC-UHT/README"
-      },
-      {
         "text": "⏰ 0013. yjs",
         "link": "/notes/0013. yjs/README"
-      },
-      {
-        "text": "⏰ 0014. zju-icicles",
-        "link": "/notes/0014. zju-icicles/README"
       }
     ]
   },
   {
-    "text": "5. TODO",
+    "text": "6. 开源音乐软件",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 0024. new",
+        "link": "/notes/0024. new/README"
+      },
+      {
+        "text": "⏰ 0018. musicxx",
+        "link": "/notes/0018. musicxx/README"
+      }
+    ]
+  },
+  {
+    "text": "7. TODO",
     "collapsed": true,
     "items": [
       {
@@ -108,20 +124,16 @@
         "link": "/notes/0004. OAuth/README"
       },
       {
-        "text": "⏰ 0021. new",
-        "link": "/notes/0021. new/README"
+        "text": "⏰ 0003. github 开源项目",
+        "link": "/notes/0003. github 开源项目/README"
       },
       {
-        "text": "⏰ 0022. new",
-        "link": "/notes/0022. new/README"
+        "text": "⏰ 0017. PakePlus",
+        "link": "/notes/0017. PakePlus/README"
       },
       {
         "text": "⏰ 0023. new",
         "link": "/notes/0023. new/README"
-      },
-      {
-        "text": "⏰ 0024. new",
-        "link": "/notes/0024. new/README"
       },
       {
         "text": "⏰ 0025. new",
