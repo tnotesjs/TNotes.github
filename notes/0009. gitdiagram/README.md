@@ -4,9 +4,10 @@
 
 - [1. 🎯 本节内容](#1--本节内容)
 - [2. 🫧 评价](#2--评价)
-- [3. 🤔 gitdiagram 是什么？](#3--gitdiagram-是什么)
-- [4. 📺 Github 17.4K Star！一键架构图神器！太牛了！](#4--github-174k-star一键架构图神器太牛了)
-- [5. 🔗 引用](#5--引用)
+- [3. 🤔 `gitdiagram` 是什么？](#3--gitdiagram-是什么)
+- [4. 🤔 `gitdiagram` 实际生成的架构图是怎样的？](#4--gitdiagram-实际生成的架构图是怎样的)
+- [5. 📺 bilibili - Github 17.4K Star！一键架构图神器！太牛了！ - 程序员少北晨](#5--bilibili---github-174k-star一键架构图神器太牛了---程序员少北晨)
+- [6. 🔗 引用](#6--引用)
 
 <!-- endregion:toc -->
 
@@ -16,23 +17,38 @@
 
 ## 2. 🫧 评价
 
-- gitdiagram 是一款用于生成 github 开源项目的架构图的工具，对于阅读一些知名开源项目的源码可能会有所帮助。
-- 基本使用非常简单，可以结合笔记中记录的 B 站的 1min 左右的视频来了解一下它的用法。
+在阅读某个 github 项目源码的时候，可以借助这款工具来生成项目架构图，对于快速了解一个项目的大致架构可能会有所帮助。
 
-## 3. 🤔 gitdiagram 是什么？
+基本使用非常简单，可以结合笔记中记录的 B 站的 1min 左右的视频来了解一下它的用法。
 
-- [gitdiagram][2]
+在阅读一些知名开源项目的源码时，也可以结合着 DeepWiki 这个工具一起使用。
+
+使用建议：
+
+- 一个 tab 使用 `gitdiagram` 生成项目的架构图，并以此为参考链路来梳理整个项目的基本脉络；
+  - 如果对生成的 mermaid 图表不满意，可找其他 AI 来生成，只需要将 github 项目链接发送给 AI，让 AI 使用 mermaid 来生成该项目的架构图即可，没必要在一棵树上吊死！
+- 一个 tab 打开 DeepWiki 或 ZreadAI 阅读项目技术文档，如果有针对项目的具体问题，可以直接在 DeepWiki、ZreadAI 中询问 AI；
+
+## 3. 🤔 `gitdiagram` 是什么？
+
+官方描述：
+
+- Free, simple, fast interactive diagrams for any GitHub repository
+  - 免费、简单、快速的交互式图表，适用于任何 GitHub 仓库。
+- Turn any GitHub repository into an interactive diagram for visualization in seconds.
   - 几秒钟内将任何 GitHub 仓库转换为可视化的交互式图表。
+- You can also replace `hub` with `diagram` in any Github URL to access its diagram.
   - 你也可以将任何 GitHub 网址中的 `github` 替换为 `gitdiagram` 来访问其图表。
-- 作用
-  - 可以结合 `gitdiagram` 帮我们生成的项目架构图，辅助阅读一些知名开源项目的源码。
-  - 对于快速了解一个项目的大致架构可能会有所帮助。
-  - 在阅读一些知名开源项目的源码时，也可以结合着 `deepwiki` 这个工具一起使用。
-- [mermaid](https://github.com/ahmedkhaleel2004/gitdiagram/blob/ca88e20e1707577830a99a3177bdee4553aaaae8/package.json#L37)
-  - 最终呈现的图标，是基于开源项目 mermaid 来绘制的，这个图表可以很轻松地嵌入到 markdown 中。
-  - 比如，你可以利用这个工具分析一下这个项目的架构，生成 diagram 图之后，copy mermaid 代码，丢到 markdown 笔记中。
-  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-07-20-23-09-28.png)
-  - ⬇️ ⬇️ ⬇️ 下面展示的 mermaid 图表，就是搬运过来的结果，只不过这里搬运过来的结果的交互效果或许就没官方做的好了（比如鼠标悬停在链接块上之后，块会有放大变灰的交互效果），不过超链接依旧是正常有效的。
+
+## 4. 🤔 `gitdiagram` 实际生成的架构图是怎样的？
+
+生成的是 mermaid 图表：最终生成的图表是基于 mermaid 来绘制的，这个图表可以很轻松地嵌入到 markdown 中。
+
+比如，你可以利用这个工具分析一下 `gitdiagram` 这个项目的架构，生成 diagram 图之后，copy mermaid 代码，丢到 markdown 笔记中。
+
+![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-07-20-23-09-28.png)
+
+⬇️ ⬇️ ⬇️ 下面展示的 mermaid 图表，就是搬运过来的结果，只不过这里搬运过来的结果的交互效果或许就没官方做的好了（比如鼠标悬停在链接块上之后，块会有放大变灰的交互效果），不过超链接依旧是正常有效的。
 
 ```mermaid
 graph TB
@@ -169,15 +185,15 @@ graph TB
   classDef external fill:#E0E0E0,stroke:#666,color:#000
 ```
 
-## 4. 📺 Github 17.4K Star！一键架构图神器！太牛了！
+## 5. 📺 bilibili - Github 17.4K Star！一键架构图神器！太牛了！ - 程序员少北晨
 
 <B id="BV1GcEUzQE1b"></B>
 
-## 5. 🔗 引用
+## 6. 🔗 引用
 
-- [gitdiagram github][1]
-- [gitdiagram 官网][2]
-- [mermaid][3]
+- [gitdiagram - github][1]
+- [gitdiagram - 官网][2]
+- [mermaid - 官网][3]
 
 [1]: https://github.com/ahmedkhaleel2004/gitdiagram
 [2]: https://gitdiagram.com/
