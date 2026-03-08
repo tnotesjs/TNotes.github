@@ -15,7 +15,7 @@
 
 ## 2. 🫧 评价
 
-这个开源项目记录了清华计算机系大一到大四以及研究生的相关课程以及一些学习资料。
+这个开源项目记录了清华计算机系大一到大四以及研究生的相关课程以及一些学习资料，据说是收到了 [浙江大学的 zju-icicles][3] 的启发而创立的。
 
 ## 3. 🤔 这个仓库中都包含哪些核心内容？
 
@@ -39,6 +39,8 @@
 
 - [REKCARC-TSC-UHT - github][1]
 - [清华大学计算机系课程攻略 - 官网][2]
+- [zju-icicles - github][3]
 
 [1]: https://github.com/PKUanonym/REKCARC-TSC-UHT
 [2]: https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html
+[3]: https://github.com/QSCTech/zju-icicles
