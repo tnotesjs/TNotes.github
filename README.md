@@ -17,7 +17,7 @@
 
 - [x] [0019. github 工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20github%20%E5%B7%A5%E5%85%B7/README.md)
 - [x] [0007. DeepWiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20DeepWiki/README.md)
-- [ ] [0010. Zread.AI](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20Zread.AI/README.md)
+- [x] [0010. Zread.AI](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20Zread.AI/README.md)
 
 ## 3. github 开源项目
 
