@@ -27,12 +27,12 @@
 - [x] [0021. github 上的学习资源](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0021.%20github%20%E4%B8%8A%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README.md)
 - [x] [0014. zju-icicles](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0014.%20zju-icicles/README.md)
 - [x] [0015. REKCARC-TSC-UHT](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0015.%20REKCARC-TSC-UHT/README.md)
-- [ ] [0008. everyone-can-use-english](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0008.%20everyone-can-use-english/README.md)
+- [x] [0008. everyone-can-use-english](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0008.%20everyone-can-use-english/README.md)
 
 ## 4. github 项目源码学习工具
 
 - [x] [0019. github 项目源码学习工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20github%20%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md)
-- [x] [0007. deepwiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20deepwiki/README.md)
+- [x] [0007. DeepWiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20DeepWiki/README.md)
 - [x] [0010. Zread.AI](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20Zread.AI/README.md)
 - [ ] [0009. gitdiagram](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0009.%20gitdiagram/README.md)
 

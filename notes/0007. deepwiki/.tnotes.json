@@ -7,5 +7,5 @@
   "description": "deepwiki 是一个 GitHub 上大部分知名开源项目的百科全书，是基于 Devin 实现的，生成的 wiki 文档默认是英文。使用方法：将仓库地址中的 github 替换为 deepwiki 即可访问 AI 生成的项目说明文档。支持在阅读文档的时候，对 AI 进行提问。",
   "id": "7095e71d-aea5-4aa9-b692-2a5ca1565e1c",
   "created_at": 1772278148154,
-  "updated_at": 1772936425230
+  "updated_at": 1772964739051
 }
