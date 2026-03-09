@@ -40,7 +40,7 @@
 
 - [ ] [0022. 开源笔记工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7/README.md)
 - [x] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
-- [ ] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
+- [x] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
 - [ ] [0012. quill](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0012.%20quill/README.md)
 - [ ] [0013. yjs](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0013.%20yjs/README.md)
 
