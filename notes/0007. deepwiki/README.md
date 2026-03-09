@@ -1,4 +1,4 @@
-# [0007. DeepWiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20DeepWiki)
+# [0007. deepwiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20deepwiki)
 
 <!-- region:toc -->
 

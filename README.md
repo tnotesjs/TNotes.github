@@ -32,14 +32,14 @@
 ## 4. github 项目源码学习工具
 
 - [x] [0019. github 项目源码学习工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20github%20%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md)
-- [x] [0007. DeepWiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20DeepWiki/README.md)
+- [x] [0007. deepwiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20deepwiki/README.md)
 - [x] [0010. Zread.AI](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20Zread.AI/README.md)
 - [x] [0009. gitdiagram](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0009.%20gitdiagram/README.md)
 
 ## 5. 开源笔记工具
 
 - [ ] [0022. 开源笔记工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7/README.md)
-- [ ] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
+- [x] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
 - [ ] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
 - [ ] [0012. quill](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0012.%20quill/README.md)
 - [ ] [0013. yjs](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0013.%20yjs/README.md)
