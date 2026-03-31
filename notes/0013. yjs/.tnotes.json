@@ -6,6 +6,6 @@
   "enableDiscussions": true,
   "description": "yjs 是一个用于构建协同编辑应用的 JavaScript 库，支持实时多人协作功能。yjs 基于 CRDT（Conflict-Free Replicated Data Type）技术实现，确保在分布式环境中数据的一致性和同步性。",
   "id": "631d541c-1052-4f86-b82b-858b66ccab59",
-  "created_at": 1772278148156,
+  "created_at": 1773064381000,
   "updated_at": 1773064381102
 }

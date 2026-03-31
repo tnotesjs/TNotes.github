@@ -19,14 +19,24 @@
     },
     "title": "github",
     "completed_notes_count": {
+      "25.05": 0,
+      "25.06": 0,
+      "25.07": 0,
+      "25.08": 0,
+      "25.09": 0,
+      "25.10": 0,
+      "25.11": 0,
+      "25.12": 0,
+      "26.01": 0,
       "26.02": 0,
-      "26.03": 19
+      "26.03": 19,
+      "26.04": 19
     },
     "details": "github 笔记",
     "link": "https://tnotesjs.github.io/TNotes.github/",
-    "created_at": 1772277967477,
-    "updated_at": 1773127219586,
-    "days_since_birth": 9742
+    "created_at": 1772277969000,
+    "updated_at": 1775000903000,
+    "days_since_birth": 9774
   },
   "port": 9742,
   "menuItems": [
