@@ -6,9 +6,10 @@
 - [2. github 排行榜](#2-github-排行榜)
 - [3. github 上的学习资源](#3-github-上的学习资源)
 - [4. github 项目源码学习工具](#4-github-项目源码学习工具)
-- [5. 开源笔记工具](#5-开源笔记工具)
-- [6. 开源音乐软件](#6-开源音乐软件)
-- [7. TODO](#7-todo)
+- [5. AI 编程指南](#5-ai-编程指南)
+- [6. 开源笔记工具](#6-开源笔记工具)
+- [7. 开源音乐软件](#7-开源音乐软件)
+- [8. TODO](#8-todo)
 
 <!-- endregion:toc -->
 
@@ -32,11 +33,16 @@
 ## 4. github 项目源码学习工具
 
 - [x] [0019. github 项目源码学习工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0019.%20github%20%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md)
-- [x] [0007. deepwiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20deepwiki/README.md)
+- [x] [0007. DeepWiki](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0007.%20DeepWiki/README.md)
 - [x] [0010. Zread.AI](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0010.%20Zread.AI/README.md)
 - [x] [0009. gitdiagram](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0009.%20gitdiagram/README.md)
 
-## 5. 开源笔记工具
+## 5. AI 编程指南
+
+- [x] [0025. AI 编程指南](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0025.%20AI%20%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/README.md)
+- [x] [0023. andrej-karpathy-skills](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0023.%20andrej-karpathy-skills/README.md)
+
+## 6. 开源笔记工具
 
 - [x] [0022. 开源笔记工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7/README.md)
 - [x] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
@@ -44,19 +50,17 @@
 - [x] [0012. quill](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0012.%20quill/README.md)
 - [x] [0013. yjs](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0013.%20yjs/README.md)
 
-## 6. 开源音乐软件
+## 7. 开源音乐软件
 
 - [x] [0024. 开源音乐软件](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0024.%20%E5%BC%80%E6%BA%90%E9%9F%B3%E4%B9%90%E8%BD%AF%E4%BB%B6/README.md)
 - [x] [0018. musicxx](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0018.%20musicxx/README.md)
 
-## 7. TODO
+## 8. TODO
 
 - [ ] [0002. github 基本使用](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0002.%20github%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md)
 - [ ] [0004. OAuth](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0004.%20OAuth/README.md)
 - [ ] [0003. github 开源项目](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20github%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/README.md)
 - [ ] [0017. PakePlus](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0017.%20PakePlus/README.md)
-- [ ] [0023. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0023.%20new/README.md)
-- [ ] [0025. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0025.%20new/README.md)
 - [ ] [0026. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0026.%20new/README.md)
 - [ ] [0027. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0027.%20new/README.md)
 - [ ] [0028. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0028.%20new/README.md)

@@ -58,8 +58,8 @@
         "link": "/notes/0019. github 项目源码学习工具/README"
       },
       {
-        "text": "✅ 0007. deepwiki",
-        "link": "/notes/0007. deepwiki/README"
+        "text": "✅ 0007. DeepWiki",
+        "link": "/notes/0007. DeepWiki/README"
       },
       {
         "text": "✅ 0010. Zread.AI",
@@ -72,7 +72,21 @@
     ]
   },
   {
-    "text": "5. 开源笔记工具",
+    "text": "5. AI 编程指南",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ 0025. AI 编程指南",
+        "link": "/notes/0025. AI 编程指南/README"
+      },
+      {
+        "text": "✅ 0023. andrej-karpathy-skills",
+        "link": "/notes/0023. andrej-karpathy-skills/README"
+      }
+    ]
+  },
+  {
+    "text": "6. 开源笔记工具",
     "collapsed": true,
     "items": [
       {
@@ -98,7 +112,7 @@
     ]
   },
   {
-    "text": "6. 开源音乐软件",
+    "text": "7. 开源音乐软件",
     "collapsed": true,
     "items": [
       {
@@ -112,7 +126,7 @@
     ]
   },
   {
-    "text": "7. TODO",
+    "text": "8. TODO",
     "collapsed": true,
     "items": [
       {
@@ -130,14 +144,6 @@
       {
         "text": "⏰ 0017. PakePlus",
         "link": "/notes/0017. PakePlus/README"
-      },
-      {
-        "text": "⏰ 0023. new",
-        "link": "/notes/0023. new/README"
-      },
-      {
-        "text": "⏰ 0025. new",
-        "link": "/notes/0025. new/README"
       },
       {
         "text": "⏰ 0026. new",

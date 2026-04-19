@@ -16,7 +16,8 @@
 
 ## 1. 🎯 本节内容
 
-- github-rank
+- github-rank 简介
+- 记录了 AI 对 github-rank 统计排名信息的核心流程的总结
 
 ## 2. 🫧 评价
 
