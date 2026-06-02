@@ -10,7 +10,8 @@
 - [6. 🤔 都有哪些知名的 excalidraw skills？](#6--都有哪些知名的-excalidraw-skills)
   - [6.1. 记录回复：Qwen 3.7-Max](#61-记录回复qwen-37-max)
     - [如何使用这些 Skills ？](#如何使用这些-skills-)
-- [7. 🔗 引用](#7--引用)
+- [7. 🤔 如何使用 excalidraw skills？](#7--如何使用-excalidraw-skills)
+- [8. 🔗 引用](#8--引用)
 
 <!-- endregion:toc -->
 
@@ -111,14 +112,14 @@ Draw（绘画）：直接表明这是一个绘图工具，功能简单明了。
 
 | Skill / MCP 名称 | 获取链接 | 描述 |
 | :-- | :-- | :-- |
-| excalidraw-diagram-skill (coleam00) | [GitHub 链接](https://github.com/coleam00/excalidraw-diagram-skill) | 专为 Claude Code 等编码 Agent 设计，能够根据代码库自动生成系统架构图，并输出为可编辑的 Excalidraw 视觉地图。 |
-| excalidraw-mcp (Excalidraw 官方) | [GitHub 链接](https://github.com/excalidraw/excalidraw-mcp) | 官方支持的 MCP Server ，提供流式手绘图表生成能力，支持平滑的视口相机控制与交互式全屏编辑。 |
-| Excalidraw+ MCP | [官方文档](https://plus.excalidraw.com/docs/mcp) | Excalidraw Plus 官方提供的 MCP 服务，允许 AI 客户端直接通过 Model Context Protocol 访问并操作用户的云端工作区。 |
-| cc-excalidraw-skill (rnjn) | [GitHub 链接](https://github.com/rnjn/cc-excalidraw-skill) | 允许 Agent 以编程方式创建和编辑图表，当用户要求绘制流程图、架构图或线框图时自动触发。 |
-| mcp_excalidraw (yctimlin) | [GitHub 链接](https://github.com/yctimlin/mcp_excalidraw) | 综合性的 MCP Server 与 Claude Code Skill ，提供基于 Node.js API 的实时画布同步、元素修改与导出功能。 |
-| excalidraw-generation | [Smithery 链接](https://smithery.ai/skills/rhuss/excalidraw-generation) | 托管于 Smithery 平台的技能，专注于响应用户“生成手绘图表”或“绘制草图”的自然语言指令。 |
-| agent-toolkit/skills/excalidraw (softaworks) | [GitHub 链接](https://github.com/softaworks/agent-toolkit/blob/main/skills/excalidraw/README.md) | 提供了一套优化的文件处理模式，专门解决 Excalidraw JSON 文件因体积过大而耗尽主 Agent 上下文预算的问题。 |
-| Obsidian Excalidraw Skill | [知乎专栏介绍](https://zhuanlan.zhihu.com/p/2008887997408502501) | 专为在 Obsidian 笔记软件中使用 Excalidraw 插件的用户打造，实测效果极佳的绘图 Agent 技能。 |
+| excalidraw-diagram-skill (coleam00) | [GitHub 链接][6] | 专为 Claude Code 等编码 Agent 设计，能够根据代码库自动生成系统架构图，并输出为可编辑的 Excalidraw 视觉地图。 |
+| excalidraw-mcp (Excalidraw 官方) | [GitHub 链接][7] | 官方支持的 MCP Server ，提供流式手绘图表生成能力，支持平滑的视口相机控制与交互式全屏编辑。 |
+| Excalidraw+ MCP | [官方文档][8] | Excalidraw Plus 官方提供的 MCP 服务，允许 AI 客户端直接通过 Model Context Protocol 访问并操作用户的云端工作区。 |
+| cc-excalidraw-skill (rnjn) | [GitHub 链接][9] | 允许 Agent 以编程方式创建和编辑图表，当用户要求绘制流程图、架构图或线框图时自动触发。 |
+| mcp_excalidraw (yctimlin) | [GitHub 链接][10] | 综合性的 MCP Server 与 Claude Code Skill ，提供基于 Node.js API 的实时画布同步、元素修改与导出功能。 |
+| excalidraw-generation | [Smithery 链接][11] | 托管于 Smithery 平台的技能，专注于响应用户“生成手绘图表”或“绘制草图”的自然语言指令。 |
+| agent-toolkit/skills/excalidraw (softaworks) | [GitHub 链接][12] | 提供了一套优化的文件处理模式，专门解决 Excalidraw JSON 文件因体积过大而耗尽主 Agent 上下文预算的问题。 |
+| Obsidian Excalidraw Skill | [知乎专栏介绍][13] | 专为在 Obsidian 笔记软件中使用 Excalidraw 插件的用户打造，实测效果极佳的绘图 Agent 技能。 |
 
 #### 如何使用这些 Skills ？
 
@@ -127,16 +128,67 @@ Draw（绘画）：直接表明这是一个绘图工具，功能简单明了。
 
 希望这些信息能帮助您的 Agent 更高效地绘制出精美的手绘风格图表！如果有具体环境的配置问题，欢迎随时向我提问。
 
-## 7. 🔗 引用
+## 7. 🤔 如何使用 excalidraw skills？
+
+这里介绍一种最简单的使用方式：
+
+1. 进入 [excalidraw-diagram-skill (coleam00)][6] 复制 skill 原始内容
+2. 随便打开一个在线的对话式 AI 工具（比如国产的 DeepSeek、Qwen、Mimo）将 skills 粘贴到对话框中，加上你的需求发送给大模型等它生成即可
+
+::: swiper
+
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-06-02-18-52-57.png)
+
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-06-02-18-57-18.png)
+
+:::
+
+发送给 AI 的内容：
+
+```
+// 这一部分是从 excalidraw-diagram-skill (coleam00) 这个 skill 中复制的内容
+
+学习上述技能，帮我绘制一个“冒泡排序”的原理图。
+```
+
+最终生成的效果：
+
+![svg](./assets/1.svg)
+
+备注：这是 AI 生成的原始效果，未做任何二次编辑，基本上算是可用的。
+
+::: tip
+
+你可以找一个生成效果好的 AI 来帮你完成这个绘图的需求，目前（26.05）实际测试下来，感觉 Mimo-V2.5-Pro 还行，时间花了 1000s 左右，确实会比较久。
+
+:::
+
+## 8. 🔗 引用
 
 - [excalidraw github][1]
 - [excalidraw deepwiki][2]
 - [mermaid 官网][3]
 - [mermaid 在线网页版][4]
 - [vscode 中的 mermaid 插件][5]
+- [excalidraw-diagram-skill (coleam00)][6]
+- [excalidraw-mcp (Excalidraw 官方)][7]
+- [Excalidraw+ MCP][8]
+- [cc-excalidraw-skill (rnjn)][9]
+- [mcp_excalidraw (yctimlin)][10]
+- [excalidraw-generation][11]
+- [agent-toolkit/skills/excalidraw (softaworks)][12]
+- [Obsidian Excalidraw Skill][13]
 
 [1]: https://github.com/excalidraw/excalidraw
 [2]: https://deepwiki.com/excalidraw/excalidraw
 [3]: https://mermaid.js.org/
 [4]: https://excalidraw.com/
 [5]: https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor
+[6]: https://github.com/coleam00/excalidraw-diagram-skill
+[7]: https://github.com/excalidraw/excalidraw-mcp
+[8]: https://plus.excalidraw.com/docs/mcp
+[9]: https://github.com/rnjn/cc-excalidraw-skill
+[10]: https://github.com/yctimlin/mcp_excalidraw
+[11]: https://smithery.ai/skills/rhuss/excalidraw-generation
+[12]: https://github.com/softaworks/agent-toolkit/blob/main/skills/excalidraw/README.md
+[13]: https://zhuanlan.zhihu.com/p/2008887997408502501
