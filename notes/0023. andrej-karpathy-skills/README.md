@@ -2,24 +2,24 @@
 
 <!-- region:toc -->
 
-- [1. 🎯 本节内容](#1--本节内容)
-- [2. 🫧 评价](#2--评价)
-- [3. 🤔 `andrej-karpathy-skills` 项目是什么？](#3--andrej-karpathy-skills-项目是什么)
-- [4. 🔗 引用](#4--引用)
+- [1. 本节内容](#1-本节内容)
+- [2. 评价](#2-评价)
+- [3. `andrej-karpathy-skills` 项目是什么？](#3-andrej-karpathy-skills-项目是什么)
+- [4. 引用](#4-引用)
 
 <!-- endregion:toc -->
 
-## 1. 🎯 本节内容
+## 1. 本节内容
 
 - `andrej-karpathy-skills` 项目简介
 
-## 2. 🫧 评价
+## 2. 评价
 
 `andrej-karpathy-skills` 核心就一个 `CLAUDE.md` 文件 => 这是一份减少常见 LLM 编码错误的行为指南。
 
 在实际工作中试着用过，目前（26.04）使用的 coding agent 工具主要是 copilot，直接将 `CLAUDE.md` 文件中的内容丢到 `.github/copilot-instructions.md` 中，好像确实有点儿用。
 
-## 3. 🤔 `andrej-karpathy-skills` 项目是什么？
+## 3. `andrej-karpathy-skills` 项目是什么？
 
 `andrej-karpathy-skills` 是一个受 Andrej Karpathy 启发，旨在改善 AI 编码助手（如 Claude Code）行为的开源指南项目。
 
@@ -34,7 +34,7 @@
 
 总的来说，这是一个旨在让 AI 成为更谨慎、更简洁、更可控的编码伙伴的实用指南。
 
-## 4. 🔗 引用
+## 4. 引用
 
 - [Karpathy-Inspired Claude Code Guidelines - github][1]
 - [CLAUDE.md - github][2]
