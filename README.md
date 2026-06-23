@@ -41,11 +41,14 @@
 
 - [x] [0025. AI 编程指南](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0025.%20AI%20%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/README.md)
 - [x] [0023. andrej-karpathy-skills](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0023.%20andrej-karpathy-skills/README.md)
+- [x] [0026. mattpocock skills](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0026.%20mattpocock%20skills/README.md)
 
 ## 6. 开源笔记工具
 
 - [x] [0022. 开源笔记工具](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0022.%20%E5%BC%80%E6%BA%90%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7/README.md)
 - [x] [0011. excalidraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0011.%20excalidraw/README.md)
+- [x] [0028. tldraw](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0028.%20tldraw/README.md)
+- [x] [0027. MinerU](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0027.%20MinerU/README.md)
 - [x] [0016. memorains](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0016.%20memorains/README.md)
 - [x] [0012. quill](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0012.%20quill/README.md)
 - [x] [0013. yjs](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0013.%20yjs/README.md)
@@ -61,9 +64,6 @@
 - [ ] [0004. OAuth](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0004.%20OAuth/README.md)
 - [ ] [0003. github 开源项目](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0003.%20github%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/README.md)
 - [ ] [0017. PakePlus](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0017.%20PakePlus/README.md)
-- [ ] [0026. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0026.%20new/README.md)
-- [ ] [0027. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0027.%20new/README.md)
-- [ ] [0028. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0028.%20new/README.md)
 - [ ] [0029. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0029.%20new/README.md)
 - [ ] [0030. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0030.%20new/README.md)
 - [ ] [0031. new](https://github.com/tnotesjs/TNotes.github/tree/main/notes/0031.%20new/README.md)
