@@ -1,24 +1,24 @@
-- 1. TNotes.github
+- TNotes.github
   - [x] 0001. TNotes.github
-- 2. github 排行榜
+- github 排行榜
   - [x] 0020. github 用户排名
   - [x] 0005. github-rank
   - [x] 0006. china-ranking
-- 3. github 上的学习资源
+- github 上的学习资源
   - [x] 0021. github 上的学习资源
   - [x] 0014. zju-icicles
   - [x] 0015. REKCARC-TSC-UHT
   - [x] 0008. everyone-can-use-english
-- 4. github 项目源码学习工具
+- github 项目源码学习工具
   - [x] 0019. github 项目源码学习工具
   - [x] 0007. DeepWiki
   - [x] 0010. Zread.AI
   - [x] 0009. gitdiagram
-- 5. AI 编程指南
+- AI 编程指南
   - [x] 0025. AI 编程指南
   - [x] 0023. andrej-karpathy-skills
   - [x] 0026. mattpocock skills
-- 6. 开源笔记工具
+- 开源笔记工具
   - [x] 0022. 开源笔记工具
   - [x] 0011. excalidraw
   - [x] 0028. tldraw
@@ -26,10 +26,10 @@
   - [x] 0016. memorains
   - [x] 0012. quill
   - [x] 0013. yjs
-- 7. 开源音乐软件
+- 开源音乐软件
   - [x] 0024. 开源音乐软件
   - [x] 0018. musicxx
-- 8. TODO
+- TODO
   - [ ] 0002. github 基本使用
   - [ ] 0004. OAuth
   - [ ] 0003. github 开源项目

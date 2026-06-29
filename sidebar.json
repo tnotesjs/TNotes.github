@@ -1,6 +1,6 @@
 [
   {
-    "text": "1. TNotes.github",
+    "text": "TNotes.github",
     "collapsed": true,
     "items": [
       {
@@ -11,13 +11,13 @@
       }
     ],
     "folderPath": [
-      "1. TNotes.github"
+      "TNotes.github"
     ],
     "tocLineIndex": 0,
     "nodeId": "line:0"
   },
   {
-    "text": "2. github 排行榜",
+    "text": "github 排行榜",
     "collapsed": true,
     "items": [
       {
@@ -40,13 +40,13 @@
       }
     ],
     "folderPath": [
-      "2. github 排行榜"
+      "github 排行榜"
     ],
     "tocLineIndex": 2,
     "nodeId": "line:2"
   },
   {
-    "text": "3. github 上的学习资源",
+    "text": "github 上的学习资源",
     "collapsed": true,
     "items": [
       {
@@ -75,13 +75,13 @@
       }
     ],
     "folderPath": [
-      "3. github 上的学习资源"
+      "github 上的学习资源"
     ],
     "tocLineIndex": 6,
     "nodeId": "line:6"
   },
   {
-    "text": "4. github 项目源码学习工具",
+    "text": "github 项目源码学习工具",
     "collapsed": true,
     "items": [
       {
@@ -110,13 +110,13 @@
       }
     ],
     "folderPath": [
-      "4. github 项目源码学习工具"
+      "github 项目源码学习工具"
     ],
     "tocLineIndex": 11,
     "nodeId": "line:11"
   },
   {
-    "text": "5. AI 编程指南",
+    "text": "AI 编程指南",
     "collapsed": true,
     "items": [
       {
@@ -139,13 +139,13 @@
       }
     ],
     "folderPath": [
-      "5. AI 编程指南"
+      "AI 编程指南"
     ],
     "tocLineIndex": 16,
     "nodeId": "line:16"
   },
   {
-    "text": "6. 开源笔记工具",
+    "text": "开源笔记工具",
     "collapsed": true,
     "items": [
       {
@@ -192,13 +192,13 @@
       }
     ],
     "folderPath": [
-      "6. 开源笔记工具"
+      "开源笔记工具"
     ],
     "tocLineIndex": 20,
     "nodeId": "line:20"
   },
   {
-    "text": "7. 开源音乐软件",
+    "text": "开源音乐软件",
     "collapsed": true,
     "items": [
       {
@@ -215,13 +215,13 @@
       }
     ],
     "folderPath": [
-      "7. 开源音乐软件"
+      "开源音乐软件"
     ],
     "tocLineIndex": 28,
     "nodeId": "line:28"
   },
   {
-    "text": "8. TODO",
+    "text": "TODO",
     "collapsed": true,
     "items": [
       {
@@ -682,7 +682,7 @@
       }
     ],
     "folderPath": [
-      "8. TODO"
+      "TODO"
     ],
     "tocLineIndex": 31,
     "nodeId": "line:31"
