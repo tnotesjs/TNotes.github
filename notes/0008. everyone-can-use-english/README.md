@@ -24,7 +24,7 @@
 
 以下是 B 站上的一个对 `everyone-can-use-english` 的介绍视频。
 
-<B id="BV1XFH2zsEwR" />
+<BilibiliVideo id="BV1XFH2zsEwR" />
 
 ## 4. everyone-can-use-english 的核心技术栈是什么？
 

@@ -31,7 +31,7 @@
 
 ## 3. bilibili - 我开源了自己开发的在线笔记软件 - 红鳞绿羽
 
-<B id="BV1baMhz3Ehj" />
+<BilibiliVideo id="BV1baMhz3Ehj" />
 
 以下内容引用自 UP 对此视频的简介：
 

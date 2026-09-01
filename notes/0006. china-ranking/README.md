@@ -19,7 +19,7 @@
 
 ## 3. bilibili - 国内优秀的编程大佬和开源项目 - 茄子懂编程
 
-<B id="BV1qpa6zrEeC" />
+<BilibiliVideo id="BV1qpa6zrEeC" />
 
 这个视频对 [china-ranking.32k.site][1] 这个站点做了个简单的介绍，合计不到半分钟，可以快速过一下。
 

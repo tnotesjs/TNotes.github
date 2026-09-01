@@ -65,7 +65,7 @@ Musicxx 是一款采用新拟物风格（Neumorphism）设计的音视频播放�
 
 ## 4. bilibili - 又是 GitHub 精选 App!我愿称之为 2025 最好用听歌神器! - TechTeam软件分享
 
-<B id="BV1FuKtzkES4" />
+<BilibiliVideo id="BV1FuKtzkES4" />
 
 ## 5. 引用
 

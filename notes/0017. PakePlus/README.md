@@ -21,7 +21,7 @@
 
 ## 3. PakePlus 打包静态文件为跨平台桌面应用，仅仅不到 5M
 
-<B id="BV1fy7DzKEMC" />
+<BilibiliVideo id="BV1fy7DzKEMC" />
 
 - 以下内容引用自 UP 的视频简介：
   - PakePlus 是一款开源工具，仅需几分钟，就能够将任意网页或前端项目（如 Vue 、React 等静态文件）快速转换为轻量级的桌面应用和移动应用，而且体积仅 5 MB 大小 ，无需复杂依赖，支持 macOS 、Windows 和 Linux 平台。

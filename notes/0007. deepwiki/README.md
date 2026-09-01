@@ -48,11 +48,11 @@ DeepWiki 是一个 GitHub 上大部分知名开源项目的百科全书。
 
 ## 4. Github 的超级百科，一键可视化，光速读懂开源代码
 
-<B id="BV1K8G9z1ECk" />
+<BilibiliVideo id="BV1K8G9z1ECk" />
 
 ## 5. DeepWiki 上线即爆火：专为 GitHub 打造的免费百科全书
 
-<B id="BV1M3G1zdEgc" />
+<BilibiliVideo id="BV1M3G1zdEgc" />
 
 ## 6. 引用
 

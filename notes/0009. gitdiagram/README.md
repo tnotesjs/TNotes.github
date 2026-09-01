@@ -187,7 +187,7 @@ graph TB
 
 ## 5. bilibili - Github 17.4K Star！一键架构图神器！太牛了！ - 程序员少北晨
 
-<B id="BV1GcEUzQE1b"></B>
+<BilibiliVideo id="BV1GcEUzQE1b"></BilibiliVideo>
 
 ## 6. 引用
 
