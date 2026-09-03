@@ -1,25 +1,19 @@
-- TNotes.github
-  - [x] 0001. TNotes.github
-- github 排行榜
-  - [x] 0020. github 用户排名
-  - [x] 0005. github-rank
+- [x] 0001. TNotes.github
+- [x] 0020. github 用户排名
   - [x] 0006. china-ranking
-- github 上的学习资源
-  - [x] 0021. github 上的学习资源
+  - [x] 0005. github-rank
+- [x] 0021. github 上的学习资源
   - [x] 0014. zju-icicles
   - [x] 0015. REKCARC-TSC-UHT
   - [x] 0008. everyone-can-use-english
-- github 项目源码学习工具
-  - [x] 0019. github 项目源码学习工具
+- [x] 0019. github 项目源码学习工具
   - [x] 0007. DeepWiki
   - [x] 0010. Zread.AI
   - [x] 0009. gitdiagram
-- AI 编程指南
-  - [x] 0025. AI 编程指南
+- [x] 0025. AI 编程指南
   - [x] 0023. andrej-karpathy-skills
   - [x] 0026. mattpocock skills
-- 开源笔记工具
-  - [x] 0022. 开源笔记工具
+- [x] 0022. 开源笔记工具
   - [x] 0011. excalidraw
   - [x] 0028. tldraw
   - [x] 0027. MinerU
