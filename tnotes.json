@@ -3,7 +3,7 @@
   "name": "TNotes.github",
   "description": "github 笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--github.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.github",
   "port": 9742,
